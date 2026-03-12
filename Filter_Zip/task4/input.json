@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Анна",
+        "age": 20,
+        "grades": {"math": 5, "physics": 4, "english": 5, "average": 4.7},
+        "skills": {"programming": ["Python", "C++"]},
+        "debts": []
+    },
+    {
+        "name": "Иван",
+        "age": 22,
+        "grades": {"math": 3, "physics": 4, "english": 4, "average": 3.7},
+        "skills": {"programming": ["Java", "SQL"]},
+        "debts": []
+    },
+    {
+        "name": "Мария",
+        "age": 19,
+        "grades": {"math": 5, "physics": 5, "english": 5, "average": 5.0},
+        "skills": {"programming": ["JavaScript", "HTML/CSS"]},
+        "debts": ["Курсовая работа"]
+    },
+    {
+        "name": "Петр",
+        "age": 26,
+        "grades": {"math": 4, "physics": 5, "english": 4, "average": 4.3},
+        "skills": {"programming": ["Python", "Java"]},
+        "debts": []
+    },
+    {
+        "name": "Елена",
+        "age": 21,
+        "grades": {"math": 5, "physics": 4, "english": 5, "average": 4.7},
+        "skills": {"programming": ["C++", "C#"]},
+        "debts": []
+    },
+    {
+        "name": "Дмитрий",
+        "age": 23,
+        "grades": {"math": 4, "physics": 4, "english": 5, "average": 4.3},
+        "skills": {"programming": ["Python", "JavaScript"]},
+        "debts": []
+    }
+]
